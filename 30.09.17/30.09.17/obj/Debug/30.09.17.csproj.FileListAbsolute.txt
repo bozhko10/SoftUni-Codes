@@ -1,0 +1,7 @@
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\30.09.17\30.09.17\bin\Debug\30.09.17.exe.config
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\30.09.17\30.09.17\bin\Debug\30.09.17.exe
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\30.09.17\30.09.17\bin\Debug\30.09.17.pdb
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\30.09.17\30.09.17\obj\Debug\30.09.17.csprojResolveAssemblyReference.cache
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\30.09.17\30.09.17\obj\Debug\30.09.17.csproj.CoreCompileInputs.cache
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\30.09.17\30.09.17\obj\Debug\30.09.17.exe
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\30.09.17\30.09.17\obj\Debug\30.09.17.pdb

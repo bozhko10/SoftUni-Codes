@@ -1,0 +1,6 @@
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\21.09.17\Task 3\bin\Debug\Task 3.exe.config
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\21.09.17\Task 3\bin\Debug\Task 3.exe
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\21.09.17\Task 3\bin\Debug\Task 3.pdb
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\21.09.17\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\21.09.17\Task 3\obj\Debug\Task 3.exe
+C:\Users\Bobi Nedelchev\Desktop\Programming Bases\21.09.17\Task 3\obj\Debug\Task 3.pdb
